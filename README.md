@@ -7,8 +7,6 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### Requirements
 Python +2.x
-GUN server
-
 ### How to Run ?
 git clone https://github.com/Mr4FX/Hulk-ddos-attack
 chmod +x hulk.py
@@ -18,4 +16,5 @@ python hulk.py
 
 ### More Details
 Contact me : mrafx@cock.li
+
 Or https://www.facebook.com/mrafxx
