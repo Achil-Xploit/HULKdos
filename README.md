@@ -9,7 +9,9 @@ from banks to news websites, and present a major challenge to making sure people
 Python +2.x
 ### How to Run ?
 git clone https://github.com/Mr4FX/Hulk-ddos-attack
+
 chmod +x hulk.py
+
 python hulk.py
 
 ### you don't need experince to understand it ...
