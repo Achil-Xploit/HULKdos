@@ -15,6 +15,4 @@ python hulk.py
 ### you don't need experince to understand it ...
 
 ### More Details
-Contact me : mrafx@cock.li
-
-Or https://www.facebook.com/mrafxx
+Contact me : th34fx@pm.me
